@@ -1,3 +1,6 @@
+forked from raysonfang/jdk1.8-source-analysis
+用于源码阅读注释。
+
 # jdk1.8-source-analysis
 
 JDK1.8源码分析
@@ -185,8 +188,4 @@ sun.awt.UNIXToolkit
 03=JDK1.8源码分析03之idea搭建源码阅读环境
 
 04=JDK1.8源码分析04之java.lang.Object类
-
-# JDK相关面试集锦系列文章
-
-持续更新中.......
 
